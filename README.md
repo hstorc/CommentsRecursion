@@ -1,5 +1,5 @@
 # Comments Recursion
-simple recursion solution in C# I had to try after a failing interview
+simple recursion solution in C# I had to try 
 <br>
 The problem is how to display comments to a given post, given the option that<br/>
 any comment can have more comments and so on. <br/>
